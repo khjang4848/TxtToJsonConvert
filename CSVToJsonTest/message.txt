@@ -1,0 +1,52 @@
+Sub Code	Main Code	Korean	English
+trade	main1		
+trade	limit1	구매가격을 1,000(원) 이상으로 지정해주세요	
+trade	limit2	구매가격을 1,000(원) 단위로 지정해주세요	
+trade	limit3	구매량을 0.0001(BTC)이상으로 지정해주세요	
+trade	limit4	보유 현금이 부족합니다	
+trade	limit5	구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	
+trade	limit6	구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	
+trade	limit7	판매가격을 1,000(원) 이상으로 지정해주세요	
+trade	limit8	판매가격을 1,000(원) 단위로 지정해주세요	
+trade	limit9	판매량을 0.0001(BTC) 이상으로 지정해주세요	
+trade	limit10	판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	
+trade	limit11	판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	
+trade	market1	구매량은 0(원)보다 크게 적어주세요	
+trade	market2	보유 현금이 부족합니다	
+trade	market3	구매량은 0(BTC)보다 크게 적어주세요	
+trade	market4	보유 비트코인이 부족합니다	
+trade	stoplimit1	구매발동가격을 1,000(원) 이상으로 지정해주세요	
+trade	stoplimit2	구매발동가격을 1,000(원) 단위로 지정해주세요	
+trade	stoplimit3	구매가격을 1,000(원) 이상으로 지정해주세요	
+trade	stoplimit4	구매가격을 1,000(원) 단위로 지정해주세요.	
+trade	stoplimit5	구매량을 0.0001(BTC) 이상으로 지정해주세요	
+trade	stoplimit6	보유 현금이 부족합니다	
+trade	stoplimit7	구매량을 0(원) 보다 크게 지정해주세요	
+trade	stoplimit8	판매발동가격을 1,000(원) 이상으로 지정해주세요	
+trade	stoplimit9	판매발동가격을 1,000(원) 단위로 지정해주세요	
+trade	stoplimit10	판매가격을 1,000(원) 이상으로 지정해주세요	
+trade	stoplimit11	판매가격을 1,000(원) 단위로 지정해주세요	
+trade	stoplimit12	판매량을 0.0001(BTC) 이상으로 지정해주세요	
+trade	stoplimit13	보유 비트코인이 부족합니다	
+trade	stoplimit14	판매량을 0(원) 보다 크게 지정해주세요	
+trade	looporder1	첫번째 구매가격을 1,000(원) 이상으로 지정해주세요	
+trade	looporder2	첫번째 구매가격을 1,000(원) 단위로 지정해주세요	
+trade	looporder3	첫번째 구매량을 0.0001(BTC) 이상으로 지정해주세요	
+trade	looporder4	두번째 판매가격을 1,000(원) 이상으로 지정해주세요	
+trade	looporder5	두번째 판매가격을 1,000(원) 단위로 지정해주세요	
+trade	looporder6	두번째 판매가격을 첫번째 구매가격 보다 크게 지정해주세요	
+trade	looporder7	보유 현금이 부족합니다	
+trade	looporder8	첫번째 구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	
+trade	looporder9	첫번째 구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	
+trade	looporder10	첫번째 판매가격을 1,000(원) 이상으로 지정해주세요	
+trade	looporder11	첫번째 판매가격을 1,000(원) 단위로 지정해주세요	
+trade	looporder12	첫번째 판매량을 0.0001(BTC) 이상으로 지정해주세요	
+trade	looporder13	두번째 구매가격을 1,000(원) 이상으로 지정해주세요	
+trade	looporder14	두번째 구매가격을 1,000(원) 단위로 지정해주세요	
+trade	looporder15	두번째 구매가격을 첫번째 판매가격 보다 작게 지정해주세요	
+trade	looporder16	보유 비트코인이 부족합니다	
+trade	looporder17	첫번째 판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	
+trade	looporder18	첫번째 판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	
+user	user11	이것은 테스트입니다	
+user	user12	이것은 테스트입니다12	
+user	user13	이것은 테스트입니다13	

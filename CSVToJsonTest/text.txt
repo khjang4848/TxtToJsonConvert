@@ -1,0 +1,46 @@
+Key	Value
+Open	
+Close	
+Low	
+High	
+MA5	
+MA10	
+Volume	
+Last Price	
+Increase	
+Limit Order	
+Market Order	
+Stop Limit Order	
+Loop Order	
+Available	
+Margin	
+Price	
+Buy	
+Sell	
+Stop Price	
+First Buy Price	
+First Buy Volume	
+Second Sell Price	
+First Sell Price	
+First Sell Volume	
+Second Buy Price	
+Only One Time	
+Not Limit	
+Not Use Gain	
+Use Gain	
+Amount	
+Complete Order	
+Current Order	
+Time	
+Type	
+Completed	
+Avg Price	
+Remain	
+Operation	
+Status	
+Sell Price	
+Buy Price	
+First Volume	
+Remain Sell	
+Cancel	
+Detail	
