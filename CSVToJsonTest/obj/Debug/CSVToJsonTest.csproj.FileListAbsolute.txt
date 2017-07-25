@@ -6,3 +6,11 @@ D:\CSVToJsonTest\CSVToJsonTest\obj\Debug\CSVToJsonTest.exe
 D:\CSVToJsonTest\CSVToJsonTest\obj\Debug\CSVToJsonTest.pdb
 D:\CSVToJsonTest\CSVToJsonTest\bin\Debug\Newtonsoft.Json.dll
 D:\CSVToJsonTest\CSVToJsonTest\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.exe.config
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.exe
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.pdb
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.csprojResolveAssemblyReference.cache
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.exe
+D:\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.pdb
