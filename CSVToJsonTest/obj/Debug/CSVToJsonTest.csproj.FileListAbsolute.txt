@@ -16,3 +16,10 @@ D:\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.exe
 D:\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.pdb
 C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.csprojResolveAssemblyReference.cache
 C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.csproj.CoreCompileInputs.cache
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.exe.config
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.exe
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\CSVToJsonTest.pdb
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\Newtonsoft.Json.dll
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\bin\Debug\Newtonsoft.Json.xml
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.exe
+C:\MyWork\GitHub\TxtToJsonConvert\CSVToJsonTest\obj\Debug\CSVToJsonTest.pdb

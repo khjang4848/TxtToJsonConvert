@@ -1,52 +1,53 @@
 Sub Code	Main Code	Korean	English
 trade	main1		
-trade	limit1	구매가격을 1,000(원) 이상으로 지정해주세요	
-trade	limit2	구매가격을 1,000(원) 단위로 지정해주세요	
-trade	limit3	구매량을 0.0001(BTC)이상으로 지정해주세요	
-trade	limit4	보유 현금이 부족합니다	
-trade	limit5	구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	
-trade	limit6	구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	
-trade	limit7	판매가격을 1,000(원) 이상으로 지정해주세요	
-trade	limit8	판매가격을 1,000(원) 단위로 지정해주세요	
-trade	limit9	판매량을 0.0001(BTC) 이상으로 지정해주세요	
-trade	limit10	판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	
-trade	limit11	판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	
-trade	market1	구매량은 0(원)보다 크게 적어주세요	
-trade	market2	보유 현금이 부족합니다	
-trade	market3	구매량은 0(BTC)보다 크게 적어주세요	
-trade	market4	보유 비트코인이 부족합니다	
-trade	stoplimit1	구매발동가격을 1,000(원) 이상으로 지정해주세요	
-trade	stoplimit2	구매발동가격을 1,000(원) 단위로 지정해주세요	
-trade	stoplimit3	구매가격을 1,000(원) 이상으로 지정해주세요	
-trade	stoplimit4	구매가격을 1,000(원) 단위로 지정해주세요.	
-trade	stoplimit5	구매량을 0.0001(BTC) 이상으로 지정해주세요	
-trade	stoplimit6	보유 현금이 부족합니다	
-trade	stoplimit7	구매량을 0(원) 보다 크게 지정해주세요	
-trade	stoplimit8	판매발동가격을 1,000(원) 이상으로 지정해주세요	
-trade	stoplimit9	판매발동가격을 1,000(원) 단위로 지정해주세요	
-trade	stoplimit10	판매가격을 1,000(원) 이상으로 지정해주세요	
-trade	stoplimit11	판매가격을 1,000(원) 단위로 지정해주세요	
-trade	stoplimit12	판매량을 0.0001(BTC) 이상으로 지정해주세요	
-trade	stoplimit13	보유 비트코인이 부족합니다	
-trade	stoplimit14	판매량을 0(원) 보다 크게 지정해주세요	
-trade	looporder1	첫번째 구매가격을 1,000(원) 이상으로 지정해주세요	
-trade	looporder2	첫번째 구매가격을 1,000(원) 단위로 지정해주세요	
-trade	looporder3	첫번째 구매량을 0.0001(BTC) 이상으로 지정해주세요	
-trade	looporder4	두번째 판매가격을 1,000(원) 이상으로 지정해주세요	
-trade	looporder5	두번째 판매가격을 1,000(원) 단위로 지정해주세요	
-trade	looporder6	두번째 판매가격을 첫번째 구매가격 보다 크게 지정해주세요	
-trade	looporder7	보유 현금이 부족합니다	
-trade	looporder8	첫번째 구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	
-trade	looporder9	첫번째 구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	
-trade	looporder10	첫번째 판매가격을 1,000(원) 이상으로 지정해주세요	
-trade	looporder11	첫번째 판매가격을 1,000(원) 단위로 지정해주세요	
-trade	looporder12	첫번째 판매량을 0.0001(BTC) 이상으로 지정해주세요	
-trade	looporder13	두번째 구매가격을 1,000(원) 이상으로 지정해주세요	
-trade	looporder14	두번째 구매가격을 1,000(원) 단위로 지정해주세요	
-trade	looporder15	두번째 구매가격을 첫번째 판매가격 보다 작게 지정해주세요	
-trade	looporder16	보유 비트코인이 부족합니다	
-trade	looporder17	첫번째 판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	
-trade	looporder18	첫번째 판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	
-user	user11	이것은 테스트입니다	
-user	user12	이것은 테스트입니다12	
-user	user13	이것은 테스트입니다13	
+trade	limit1	"구매가격을 1,000(원) 이상으로 지정해주세요"	"Please set the buy price to 1,000 won or more."
+trade	limit2	"구매가격을 1,000(원) 단위로 지정해주세요"	"Please specify buy price in units of 1,000 (won)"
+trade	limit3	구매량을 0.0001(BTC)이상으로 지정해주세요	Please set the buy amount to 0.0001 (BTC) or higher.
+trade	limit4	보유 현금이 부족합니다	Insufficient fund
+trade	limit5	구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	The buy price can not exceed 120% of the last price
+trade	limit6	구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	buy price can not be less than 1% of last price
+trade	limit7	"판매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify a sell price of 1,000 won or more."
+trade	limit8	"판매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the sell price in 1,000 won"
+trade	limit9	판매량을 0.0001(BTC) 이상으로 지정해주세요	Please set sell volume to 0.0001 (BTC) or higher
+trade	limit10	보유 비트코인이 부족합니다	The reserve bitcoin is insufficient
+trade	limit11	판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	The selling price can not be less than 80% of the last price
+trade	limit12	판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	The selling price can not be specified more than 100 times the last price
+trade	market1	구매량은 0(원)보다 크게 적어주세요	buy amount should be larger than 0 (won)
+trade	market2	보유 현금이 부족합니다	Insufficient fund
+trade	market3	구매량은 0(BTC)보다 크게 적어주세요	buy quantity should be bigger than 0 (BTC)
+trade	market4	보유 비트코인이 부족합니다	The reserve bitcoin is insufficient
+trade	stoplimit1	"구매발동가격을 1,000(원) 이상으로 지정해주세요"	"Please set the buy price to 1,000 (KRW) or more"
+trade	stoplimit2	"구매발동가격을 1,000(원) 단위로 지정해주세요"	"Please specify buy activation price in units of 1,000 (won)"
+trade	stoplimit3	"구매가격을 1,000(원) 이상으로 지정해주세요"	"Please set the buy price to 1,000 won or more"
+trade	stoplimit4	"구매가격을 1,000(원) 단위로 지정해주세요."	"Please specify the buy price in units of 1,000 (won)"
+trade	stoplimit5	구매량을 0.0001(BTC) 이상으로 지정해주세요	Please set the buy amount to 0.0001 (BTC) or higher
+trade	stoplimit6	보유 현금이 부족합니다	Insufficient fund
+trade	stoplimit7	구매량을 0(원) 보다 크게 지정해주세요	Please specify the buy amount larger than 0 (won)
+trade	stoplimit8	"판매발동가격을 1,000(원) 이상으로 지정해주세요"	"Please specify sell activation price as 1,000 won or more"
+trade	stoplimit9	"판매발동가격을 1,000(원) 단위로 지정해주세요"	"Please specify sell activation price in units of 1,000 (won)"
+trade	stoplimit10	"판매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify a sell price of 1,000 won or more"
+trade	stoplimit11	"판매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the sell price in 1,000 won"
+trade	stoplimit12	판매량을 0.0001(BTC) 이상으로 지정해주세요	Please set sell volume to 0.0001 (BTC) or higher
+trade	stoplimit13	보유 비트코인이 부족합니다	The bitcoin is insufficient
+trade	stoplimit14	판매량을 0(원) 보다 크게 지정해주세요	Please specify sales volume larger than 0 (won)
+trade	looporder1	"첫번째 구매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify the first buy price as 1,000 won or more"
+trade	looporder2	"첫번째 구매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the first buy price in 1,000 won"
+trade	looporder3	첫번째 구매량을 0.0001(BTC) 이상으로 지정해주세요	Please specify your first buy as 0.0001 (BTC) or higher
+trade	looporder4	"두번째 판매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify a second sell price of 1,000 won or more"
+trade	looporder5	"두번째 판매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the second sell price in 1,000 won"
+trade	looporder6	두번째 판매가격을 첫번째 구매가격 보다 크게 지정해주세요	Please specify the second sell price higher than the first buy price
+trade	looporder7	보유 현금이 부족합니다	Insufficient fund
+trade	looporder8	첫번째 구매가격은 마지막체결가의 120%이상으로 지정할 수 없습니다	The first buy price can not exceed 120% of the last price
+trade	looporder9	첫번째 구매가격은 마지막체결가의 1%이하로 지정할 수 없습니다	The first buy price can not be less than 1% of the last price
+trade	looporder10	"첫번째 판매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify the first sale price as 1,000 won or more"
+trade	looporder11	"첫번째 판매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the first selling price in 1,000 won"
+trade	looporder12	첫번째 판매량을 0.0001(BTC) 이상으로 지정해주세요	Please set your first sell volume to 0.0001 (BTC) or higher
+trade	looporder13	"두번째 구매가격을 1,000(원) 이상으로 지정해주세요"	"Please specify a second buy price of 1,000 won or more"
+trade	looporder14	"두번째 구매가격을 1,000(원) 단위로 지정해주세요"	"Please specify the second buy price in 1,000 won"
+trade	looporder15	두번째 구매가격을 첫번째 판매가격 보다 작게 지정해주세요	Please specify the second buy price less than the first sell price
+trade	looporder16	보유 비트코인이 부족합니다	The bitcoin is insufficient
+trade	looporder17	첫번째 판매가격은 마지막체결가의 80%이하로 지정할 수 없습니다	The first sell price can not be less than 80% of the last price
+trade	looporder18	첫번째 판매가격은 마지막체결가의 100배이상으로 지정할 수 없습니다	The first sell price can not be specified more than 100 times the last price
+user	user11	이것은 테스트입니다	This is a test
+user	user12	이것은 테스트입니다12	This is a test12
+user	user13	이것은 테스트입니다13	This is a test13
